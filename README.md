@@ -59,7 +59,7 @@ I'm an AI Engineer, focused on RL, ML, NLP, LLM, Agent, and RAG.
 ### 💬 Contact
 
 <a href="https://liz-in-tech.github.io/blog" target="_blank"><img src="https://img.shields.io/badge/Blog|Liz-FF1493?style=for-the-badge" alt="Blog"></a>
-<a href="mailto:lizintechpro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="mailto:lizintech.open@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/liz-in-tech" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 <a href="https://www.youtube.com/@LizInTech" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
 <a href="https://huggingface.co/liz-in-tech" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface" alt="Hugging Face"></a>
