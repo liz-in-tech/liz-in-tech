@@ -4,12 +4,6 @@ I'm an AI Engineer, focused on RL, ML, NLP, LLM, Agent, and RAG.
 
 ---
 
-### ⚒️ Projects
-
-* [**LizAgents**](https://liz-in-tech.github.io/blog/demo/): A collection of intelligent agents, including 🦄Vision Agent, 🐷Memory Agent, 🐮CSV Agent, 🐳PDF Agent, 🐯Search Agent and 🐸Chat Agent. Powered by OpenAI, LangChain, Streamlit, Selenium and GPT-4V-Act.[[github](https://github.com/liz-in-tech/LizAgents)] [[demo](https://liz-agents.streamlit.app/)]
-
----
-
 ### 📝 Contributions
 
 - 🦙 LlamaIndex - fix bugs and optimize the extraction prompt and parse_fn in the GraphRAG notebooks [[github](https://github.com/run-llama/llama_index)] [[pr](https://github.com/run-llama/llama_index/pull/18046)]
@@ -53,6 +47,12 @@ I'm an AI Engineer, focused on RL, ML, NLP, LLM, Agent, and RAG.
 - [**RAG Evaluation Metrics**](https://liz-in-tech.github.io/blog/posts/llm/014_rag_evaluation.html)
 - [**Vector Databases and Similarity Search**](https://liz-in-tech.github.io/blog/posts/llm/011_vector_database.html)
 - [**Graph Database Neo4j**](https://liz-in-tech.github.io/blog/posts/llm/020_neo4j.html)
+
+---
+
+### ⚒️ Earlier Projects
+
+* [**LizAgents**](https://liz-in-tech.github.io/blog/demo/): A collection of intelligent agents, including 🦄Vision Agent, 🐷Memory Agent, 🐮CSV Agent, 🐳PDF Agent, 🐯Search Agent and 🐸Chat Agent. Powered by OpenAI, LangChain, Streamlit, Selenium and GPT-4V-Act.[[github](https://github.com/liz-in-tech/LizAgents)] [[demo](https://liz-agents.streamlit.app/)]
 
 ---
 
