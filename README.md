@@ -23,6 +23,7 @@ I'm an AI Engineer, focused on RL, ML, NLP, LLM, Agent, and RAG.
     - [**Distributed Training Part 5: Introduction to GPU**](https://liz-in-tech.github.io/blog/posts/llm/028_distribution_and_parallelism_4.html)
 - [**Llama Source Code Exploration**](https://liz-in-tech.github.io/blog/posts/llm/005_llama.html)
 - [**Transformer Source Code Exploration**](https://liz-in-tech.github.io/blog/posts/llm/004_transformer.html)
+- [**Multimodal Large Models**](https://liz-in-tech.github.io/blog/posts/llm/016_multimodal.html)
 - [**Best Practices for Optimizing LLMs (Prompt Engineering, RAG and Fine-tuning)**](https://liz-in-tech.github.io/blog/posts/llm/013_optimizing_llm.html)
 - [**Ollama User Guide**](https://liz-in-tech.github.io/blog/posts/llm/019_ollama.html)
 - [**Hugging Face and Transformers**](https://liz-in-tech.github.io/blog/posts/llm/018_huggingface.html)
@@ -33,7 +34,6 @@ I'm an AI Engineer, focused on RL, ML, NLP, LLM, Agent, and RAG.
 
 - [**LangChain Source Code Exploration**](https://liz-in-tech.github.io/blog/posts/llm/002_langchain_sourcecode.html)
 - [**LangChain: Building Powerful Applications with Large Language Models**](https://liz-in-tech.github.io/blog/posts/llm/001_langchain.html)
-- [**Multimodal Large Models**](https://liz-in-tech.github.io/blog/posts/llm/016_multimodal.html)
 - [**Agent & MultiAgent**](https://liz-in-tech.github.io/blog/posts/llm/017_agent_and_multiagent.html)
 - [**Prompt Engineering**](https://liz-in-tech.github.io/blog/posts/llm/012_prompt_engineering.html)
 - [**Claude 3.5 Sonnet: Computer use**](https://liz-in-tech.github.io/blog/posts/llm/007_computer_use.html)
