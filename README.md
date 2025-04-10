@@ -16,8 +16,8 @@ I'm an AI Engineer, focused on RL, ML, NLP, LLM, Agent, and RAG.
 
 - SFTTrainer Source Code Exploration
     - [**SFTTrainer Source Code Exploration: Prepare Model**](https://liz-in-tech.github.io/blog/posts/llm/032_sft_trainer_sourcecode_prepare_model.html)
-    - [**SFTTrainer Source Code Exploration: Prepare Dataset**](https://liz-in-tech.github.io/blog/posts/llm/033_sft_trainer_sourcecode_prepare_model.html)
-    - [**SFTTrainer Source Code Exploration: Prepare Train**](https://liz-in-tech.github.io/blog/posts/llm/034_sft_trainer_sourcecode_prepare_model.html)
+    - [**SFTTrainer Source Code Exploration: Prepare Dataset**](https://liz-in-tech.github.io/blog/posts/llm/033_sft_trainer_sourcecode_prepare_dataset.html)
+    - [**SFTTrainer Source Code Exploration: Prepare Train**](https://liz-in-tech.github.io/blog/posts/llm/034_sft_trainer_sourcecode_prepare_train.html)
 - [**QLoRA Code Implementation and Process Analysis**](https://liz-in-tech.github.io/blog/posts/llm/031_qlora.html)
 - [**Efficient GRPO Training with Unsloth**](https://liz-in-tech.github.io/blog/posts/llm/029_unsloth_grpo.html)
 - Distributed Training
