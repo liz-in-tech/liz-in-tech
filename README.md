@@ -14,6 +14,7 @@ I'm an AI Engineer, focused on RL, ML, NLP, LLM, Agent, and RAG.
 
 #### ⚡ LLM
 
+- [**EasyR1 + Verl + Ray + QwenVL + GRPO**](https://liz-in-tech.github.io/blog/posts/llm/035_easyr1_verl_ray_qwenvl_grpo.html)
 - SFTTrainer Source Code Exploration
     - [**SFTTrainer Source Code Exploration: Prepare Model**](https://liz-in-tech.github.io/blog/posts/llm/032_sft_trainer_sourcecode_prepare_model.html)
     - [**SFTTrainer Source Code Exploration: Prepare Dataset**](https://liz-in-tech.github.io/blog/posts/llm/033_sft_trainer_sourcecode_prepare_dataset.html)
@@ -37,6 +38,7 @@ I'm an AI Engineer, focused on RL, ML, NLP, LLM, Agent, and RAG.
 
 #### ⚡ Agent
 
+- [**MCP Technical Overview**](https://liz-in-tech.github.io/blog/posts/llm/036_mcp.html)
 - [**LangChain Source Code Exploration**](https://liz-in-tech.github.io/blog/posts/llm/002_langchain_sourcecode.html)
 - [**LangChain: Building Powerful Applications with Large Language Models**](https://liz-in-tech.github.io/blog/posts/llm/001_langchain.html)
 - [**Agent & MultiAgent**](https://liz-in-tech.github.io/blog/posts/llm/017_agent_and_multiagent.html)
