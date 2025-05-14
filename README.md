@@ -1,6 +1,6 @@
 ### Hi there, I'm Liz 👋 
 
-I'm an AI Engineer, focused on RL, ML, NLP, LLM, Agent, and RAG.
+I'm an AI Engineer, focused on RL, ML, NLP, LLM, Agent, and RAG. | Open to Work - [View My CV](https://github.com/liz-in-tech/liz-in-tech/blob/main/LizJohnsonCV.pdf)
 
 ---
 
