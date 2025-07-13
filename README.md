@@ -1,7 +1,5 @@
 ### Hi there, I'm Liz 👋 
 
-I'm an AI Engineer, focused on RL, ML, NLP, LLM, Agent, and RAG.
-
 ---
 
 ### 📝 Contributions
