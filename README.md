@@ -8,6 +8,12 @@
 
 ---
 
+### ⚒️ Earlier Projects
+
+* [**LizAgents**](https://liz-in-tech.github.io/blog/demo/): A collection of intelligent agents, including 🦄Vision Agent, 🐷Memory Agent, 🐮CSV Agent, 🐳PDF Agent, 🐯Search Agent and 🐸Chat Agent. Powered by OpenAI, LangChain, Streamlit, Selenium and GPT-4V-Act.[[github](https://github.com/liz-in-tech/LizAgents)] [[demo](https://liz-agents.streamlit.app/)]
+
+---
+
 ### ✍️ Blogs
 
 #### ⚡ LLM
@@ -36,6 +42,7 @@
 
 #### ⚡ Agent
 
+- [**AI Code Editor Source Code Exploration**](https://liz-in-tech.github.io/blog/posts/llm/037_ai_code_editor.html)
 - [**MCP Technical Overview**](https://liz-in-tech.github.io/blog/posts/llm/036_mcp.html)
 - [**LangChain Source Code Exploration**](https://liz-in-tech.github.io/blog/posts/llm/002_langchain_sourcecode.html)
 - [**LangChain: Building Powerful Applications with Large Language Models**](https://liz-in-tech.github.io/blog/posts/llm/001_langchain.html)
@@ -53,30 +60,3 @@
 - [**Vector Databases and Similarity Search**](https://liz-in-tech.github.io/blog/posts/llm/011_vector_database.html)
 - [**Graph Database Neo4j**](https://liz-in-tech.github.io/blog/posts/llm/020_neo4j.html)
 
----
-
-### ⚒️ Earlier Projects
-
-* [**LizAgents**](https://liz-in-tech.github.io/blog/demo/): A collection of intelligent agents, including 🦄Vision Agent, 🐷Memory Agent, 🐮CSV Agent, 🐳PDF Agent, 🐯Search Agent and 🐸Chat Agent. Powered by OpenAI, LangChain, Streamlit, Selenium and GPT-4V-Act.[[github](https://github.com/liz-in-tech/LizAgents)] [[demo](https://liz-agents.streamlit.app/)]
-
----
-
-### 💬 Contact
-
-<a href="https://liz-in-tech.github.io/blog" target="_blank"><img src="https://img.shields.io/badge/Blog|Liz-FF1493?style=for-the-badge" alt="Blog"></a>
-<a href="mailto:lizintech.open@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/liz-in-tech" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
-<a href="https://www.youtube.com/@LizInTech" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
-<a href="https://huggingface.co/liz-in-tech" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface" alt="Hugging Face"></a>
-<a href="https://www.kaggle.com/lizintechpro" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle"></a>
-
----
-
-### 👀 Stats
-
-![Liz In Tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=liz-in-tech&show_icons=true&hide_rank=true&line_height=40)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liz-in-tech)](https://github.com/anuraghazra/github-readme-stats&line_height=40)
-
-![](https://img.shields.io/github/followers/liz-in-tech?style=flat)
-![](https://img.shields.io/github/stars/liz-in-tech?style=flat)
-![](https://komarev.com/ghpvc/?username=liz-in-tech)
