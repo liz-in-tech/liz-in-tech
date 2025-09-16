@@ -5,6 +5,7 @@
 ### 📝 Contributions
 
 - 🦙 LlamaIndex - fix bugs and optimize the extraction prompt and parse_fn in the GraphRAG notebooks [[github](https://github.com/run-llama/llama_index)] [[pr](https://github.com/run-llama/llama_index/pull/18046)]
+- 🦙 RAG-Anything - fix: replace `__del__` with atexit to fix RAGAnything cleanup warning [[github](https://github.com/HKUDS/RAG-Anything)] [[pr](https://github.com/HKUDS/RAG-Anything/pull/106)]
 
 ---
 
@@ -18,6 +19,7 @@
 
 #### ⚡ LLM
 
+- [**BERT, ColBERT and ColPali**](https://liz-in-tech.github.io/blog/posts/llm/038_bert_colbert_colpali.html)
 - [**EasyR1 + Verl + Ray + QwenVL + GRPO**](https://liz-in-tech.github.io/blog/posts/llm/035_easyr1_verl_ray_qwenvl_grpo.html)
 - SFTTrainer Source Code Exploration
     - [**SFTTrainer Source Code Exploration: Prepare Model**](https://liz-in-tech.github.io/blog/posts/llm/032_sft_trainer_sourcecode_prepare_model.html)
