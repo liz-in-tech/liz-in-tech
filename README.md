@@ -44,6 +44,7 @@
 
 #### ⚡ Agent
 
+- [**Using n8n to Build a Telegram Personal Assistant**](https://liz-in-tech.github.io/blog/posts/llm/039_n8n.html)
 - [**AI Code Editor Source Code Exploration**](https://liz-in-tech.github.io/blog/posts/llm/037_ai_code_editor.html)
 - [**MCP Technical Overview**](https://liz-in-tech.github.io/blog/posts/llm/036_mcp.html)
 - [**LangChain Source Code Exploration**](https://liz-in-tech.github.io/blog/posts/llm/002_langchain_sourcecode.html)
