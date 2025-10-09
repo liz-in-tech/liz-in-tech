@@ -9,9 +9,9 @@
 
 ---
 
-### ⚒️ Earlier Projects
-
-* [**LizAgents**](https://liz-in-tech.github.io/blog/demo/): A collection of intelligent agents, including 🦄Vision Agent, 🐷Memory Agent, 🐮CSV Agent, 🐳PDF Agent, 🐯Search Agent and 🐸Chat Agent. Powered by OpenAI, LangChain, Streamlit, Selenium and GPT-4V-Act.[[github](https://github.com/liz-in-tech/LizAgents)] [[demo](https://liz-agents.streamlit.app/)]
+### ⚒️ Projects
+* **YouPassNow**: Real-Time Voice Multimodal Knowledge Base Q&A Assistant [[demo](https://www.youtube.com/watch?v=ueKGvh6KYMA)]
+* **LizAgents**: A collection of intelligent agents, including 🦄Vision Agent, 🐷Memory Agent, 🐮CSV Agent, 🐳PDF Agent, 🐯Search Agent and 🐸Chat Agent. Powered by OpenAI, LangChain, Streamlit, Selenium and GPT-4V-Act.[[github](https://github.com/liz-in-tech/LizAgents)] [[demo](https://liz-in-tech.github.io/blog/demo/)]
 
 ---
 
