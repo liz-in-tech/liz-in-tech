@@ -44,6 +44,7 @@
 
 #### ⚡ Agent
 
+- [**CrewAI: The Leading Multi-Agent Framework**](https://liz-in-tech.github.io/blog/posts/llm/041_crewai.html)
 - [**Mem0: A Memory Layer Framework for Empowering AI Agents**](https://liz-in-tech.github.io/blog/posts/llm/040_mem0.html)
 - [**Using n8n to Build a Telegram Personal Assistant**](https://liz-in-tech.github.io/blog/posts/llm/039_n8n.html)
 - [**AI Code Editor Source Code Exploration**](https://liz-in-tech.github.io/blog/posts/llm/037_ai_code_editor.html)
