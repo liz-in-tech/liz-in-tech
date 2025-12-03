@@ -2,16 +2,16 @@
 
 ---
 
+### ⚒️ Projects
+* **YouPassNow**: Real-Time Voice Multimodal Knowledge Base Q&A Assistant [[demo](https://www.youtube.com/watch?v=ueKGvh6KYMA)]
+* **LizAgents**: A collection of intelligent agents, including 🦄Vision Agent, 🐷Memory Agent, 🐮CSV Agent, 🐳PDF Agent, 🐯Search Agent and 🐸Chat Agent. Powered by OpenAI, LangChain, Streamlit, Selenium and GPT-4V-Act.[[github](https://github.com/liz-in-tech/LizAgents)] [[demo](https://liz-in-tech.github.io/blog/demo/)]
+
+---
+
 ### 📝 Contributions
 
 - 🦙 LlamaIndex - fix bugs and optimize the extraction prompt and parse_fn in the GraphRAG notebooks [[github](https://github.com/run-llama/llama_index)] [[pr](https://github.com/run-llama/llama_index/pull/18046)]
 - 🦙 RAG-Anything - fix: replace `__del__` with atexit to fix RAGAnything cleanup warning [[github](https://github.com/HKUDS/RAG-Anything)] [[pr](https://github.com/HKUDS/RAG-Anything/pull/106)]
-
----
-
-### ⚒️ Projects
-* **YouPassNow**: Real-Time Voice Multimodal Knowledge Base Q&A Assistant [[demo](https://www.youtube.com/watch?v=ueKGvh6KYMA)]
-* **LizAgents**: A collection of intelligent agents, including 🦄Vision Agent, 🐷Memory Agent, 🐮CSV Agent, 🐳PDF Agent, 🐯Search Agent and 🐸Chat Agent. Powered by OpenAI, LangChain, Streamlit, Selenium and GPT-4V-Act.[[github](https://github.com/liz-in-tech/LizAgents)] [[demo](https://liz-in-tech.github.io/blog/demo/)]
 
 ---
 
@@ -44,6 +44,7 @@
 
 #### ⚡ Agent
 
+- [**Agent Protocol Stack: MCP, A2A, and AG-UI**](https://liz-in-tech.github.io/blog/posts/llm/042_agent_protocol_stack.html)
 - [**CrewAI: The Leading Multi-Agent Framework**](https://liz-in-tech.github.io/blog/posts/llm/041_crewai.html)
 - [**Mem0: A Memory Layer Framework for Empowering AI Agents**](https://liz-in-tech.github.io/blog/posts/llm/040_mem0.html)
 - [**Using n8n to Build a Telegram Personal Assistant**](https://liz-in-tech.github.io/blog/posts/llm/039_n8n.html)
