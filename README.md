@@ -38,6 +38,7 @@
 - [**Transformer Source Code Exploration**](https://liz-in-tech.github.io/blog/posts/llm/004_transformer.html)
 - [**Multimodal Large Models**](https://liz-in-tech.github.io/blog/posts/llm/016_multimodal.html)
 - [**Best Practices for Optimizing LLMs (Prompt Engineering, RAG and Fine-tuning)**](https://liz-in-tech.github.io/blog/posts/llm/013_optimizing_llm.html)
+- [**Lightweight Visualization Tool for Deep Learning: wandb**](https://liz-in-tech.github.io/blog/posts/llm/030_wandb.html)
 - [**Ollama User Guide**](https://liz-in-tech.github.io/blog/posts/llm/019_ollama.html)
 - [**Hugging Face and Transformers**](https://liz-in-tech.github.io/blog/posts/llm/018_huggingface.html)
 - [**Fine-tuning**](https://liz-in-tech.github.io/blog/posts/llm/015_fine_tune.html)
