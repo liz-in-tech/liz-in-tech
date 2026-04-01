@@ -3,6 +3,7 @@
 ---
 
 ### ⚒️ Projects
+* **Open Claude Code**: Anthropic claude-code source code v2.1.88, supporting two LLM_PROVIDER modes: anthropic (Native) and openai_compat (OpenAI-Compatible).[[github](https://github.com/liz-in-tech/open-claude-code)]
 * **YouPassNow**: Real-Time Voice Multimodal Knowledge Base Q&A Assistant [[demo](https://www.youtube.com/watch?v=ueKGvh6KYMA)]
 * **LizAgents**: A collection of intelligent agents, including 🦄Vision Agent, 🐷Memory Agent, 🐮CSV Agent, 🐳PDF Agent, 🐯Search Agent and 🐸Chat Agent. Powered by OpenAI, LangChain, Streamlit, Selenium and GPT-4V-Act.[[github](https://github.com/liz-in-tech/LizAgents)] [[demo](https://liz-in-tech.github.io/blog/demo/)]
 
