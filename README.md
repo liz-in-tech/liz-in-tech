@@ -10,14 +10,17 @@
 ---
 
 ### 📝 Contributions
+- 🦙 LlamaIndex - fix bugs and optimize the extraction prompt and parse_fn in the GraphRAG notebooks [[github](https://github.com/run-llama/llama_index)] [[pr](https://github.com/run-llama/llama_index/pull/18046)]
 - 🚅 LiteLLM - fix: handle missing 'index' in images response [[github](https://github.com/BerriAI/litellm)] [[pr](https://github.com/BerriAI/litellm/pull/22642)]
     - Related Issue: [Bug]: OpenRouter + google/gemini-3-pro-image-preview: ValidationError - missing index field in images array [[issue](https://github.com/BerriAI/litellm/issues/22640)]
-- 🦙 LlamaIndex - fix bugs and optimize the extraction prompt and parse_fn in the GraphRAG notebooks [[github](https://github.com/run-llama/llama_index)] [[pr](https://github.com/run-llama/llama_index/pull/18046)]
 - 🦙 RAG-Anything - fix: replace `__del__` with atexit to fix RAGAnything cleanup warning [[github](https://github.com/HKUDS/RAG-Anything)] [[pr](https://github.com/HKUDS/RAG-Anything/pull/106)]
 
 ---
 
 ### ✍️ Blogs
+
+#### ⚡ Tech Tide Weekly
+- [**Tech Tide Weekly - Issue 1**](https://liz-in-tech.github.io/blog/posts/llm/20260511_weekly_issue_1.html)
 
 #### ⚡ LLM
 
